@@ -16,7 +16,7 @@ Este é um simples projeto de **To-Do List (Lista de Tarefas)** feito em Python,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/wesley-luiz03/ToDoList-CDD-4.0-.git
 
 2. Acesse a pasta do objeto:
    ```bash
@@ -24,7 +24,7 @@ Este é um simples projeto de **To-Do List (Lista de Tarefas)** feito em Python,
 
 3. Execute o script
    ```bash
-   python nome_do_arquivo.py
+   python main.py
 
 Certifique-se de ter o Python instalado em sua máquina.
 
