@@ -1,12 +1,13 @@
 # 📝 To-Do List em Python
 
-Este é um simples projeto de **To-Do List (Lista de Tarefas)** feito em Python, desenvolvido como parte dos estudos no curso CDD 4.0. Ele permite ao usuário adicionar, visualizar e remover tarefas diretamente pelo terminal.
+Este é um simples projeto de **To-Do List (Lista de Tarefas)** feito em Python, desenvolvido como parte dos estudos no curso CDD 4.0. Ele permite ao usuário adicionar, visualizar, editar remover tarefas diretamente pelo terminal.
 
 ## 🚀 Funcionalidades
 
 - ✅ Adicionar uma nova tarefa
 - 📋 Visualizar todas as tarefas salvas
 - ❌ Remover uma tarefa existente
+- 🖊️ Editar uma tarefa
 - 🔁 Menu interativo em loop até o usuário sair
 
 ## 💻 Tecnologias utilizadas
@@ -33,6 +34,8 @@ Certifique-se de ter o Python instalado em sua máquina.
 addTasks(): Adiciona uma nova tarefa à lista.
 
 viewTasks(): Exibe todas as tarefas cadastradas.
+
+editTasks(): Permite editar uma tarefa escolhida pelo usuário
 
 removeTasks(): Permite remover uma tarefa escolhida pelo usuário.
 
